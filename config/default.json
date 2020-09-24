@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pgsql:pgsql10@devconnector.qsrkm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mySecretToken",
+  "githubClientId": "a74ec54aedabf8183b24",
+  "githubSecret": "6a686dfd354f24bfd19f2cf08d95a96e9da7df45"
+}
